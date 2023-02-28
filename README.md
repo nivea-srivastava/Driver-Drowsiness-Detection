@@ -7,5 +7,6 @@ The majority of accidents happen due to the drowsiness of the driver. So, to pre
 <ul>
 <li>Python</li>
 <li>OpenCV</li>
-<li>Keras</li>
+<li>Dlib</li>
+<li>Imutils</li>
 </ul>
